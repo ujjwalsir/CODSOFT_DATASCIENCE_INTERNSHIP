@@ -9,7 +9,7 @@
 # TASK 2: MOVIE RATING PREDICTION WITH PYTHON
 ### DATASET: https://www.kaggle.com/datasets/brendan45774/test-file
 ### WORKING VIDEO: https://youtu.be/NqwK4kVnnkQ
-### CODE: https://github.com/ayushigeorge/CODSOFT_DATASCIENCE_INTERNSHIP/blob/main/movie%20rating%20prediction.py
+### CODE:  https://github.com/ujjwalsir/CODSOFT_DATASCIENCE_INTERNSHIP/blob/04cee5221031669e6b9a5bb1bd99a1f453fe794d/TASK-2%20Movie%20Rating%20Prediction.py
 
 # TASK 3: IRIS FLOWER CLASSIFICATION
 ### DATASET: https://www.google.com/url?q=https://raw.githubusercontent.com/amankharwal/Website-data/master/IRIS.csv&sa=D&source=apps-viewer-frontend&ust=1689441337675906&usg=AOvVaw0PMHUn4SycZI2WagN-Uuyx&hl=en
