@@ -4,7 +4,7 @@
 # TASK 1: TITANIC SURVIVAL PREDICTION
 ### DATASET: https://www.kaggle.com/datasets/brendan45774/test-file
 ### WORKING VIDEO: https://youtu.be/pdPrkopBPnY
-### CODE: https://github.com/ayushigeorge/CODSOFT_DATASCIENCE_INTERNSHIP/blob/main/TITANIC%20SURVIVAL%20PREDICTION.py
+### CODE: https://github.com/ujjwalsir/CODSOFT_DATASCIENCE_INTERNSHIP/blob/f36fac9dab73d802100b2dd5d54fd23881b575a6/TASK-1%20TITATANC%20SURVIVAL%20PREDICTION.py
 
 # TASK 2: MOVIE RATING PREDICTION WITH PYTHON
 ### DATASET: https://www.kaggle.com/datasets/brendan45774/test-file
